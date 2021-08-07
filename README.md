@@ -8,7 +8,7 @@ I am lifelong learner, passionate coder and love technology :)
 
 ### ⁉️ a litte more about...
 
-### relationships
+### aLLTogetter
 I assume you are very good at your job, and that you are here to deliver great value to our company and people. You are the expert as well. I will work to provide necessary context and ask questions to help you get your ideas but I will not override you.
 You will let me know if I am blocking you. One of my main responsibilities is ensuring that we are set up for success. Please reach out and let me know how I can help.
 
