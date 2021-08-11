@@ -13,6 +13,9 @@ I assume you are very good at your job, and that you are here to deliver great v
 Here, the bond of trust, the sense of ownership and entrepreneurship is very important. Do, do and do. Test, make mistakes, fix, retest, pivot if necessary.
 You will let me know if I am blocking you. One of my main responsibilities is ensuring that we are set up for success. Please reach out and let me know how I can help.
 
+### how
+Clear objectives and key results. Clear DoR (Definition of Read) and DoD (Definition of Done). Togetter we can define strategy to reach the goals, basead on OKRs, KPIs of the company and then, act. How measure? Follow indicators as NPS (Net Promoter Score), eNPS (in case of internal customers), TTM (Time To Market), MTTA (Medium Time To Analysis), Cycle Time, MTTR (Mean Time To Repair) and quality indicators (Number of incidents, Number of deployments/deliveries).  
+
 ### comms
 I usually ask questions and i am not afraid of not knowing things. I will seek help whenever necessary. If it feels like I am questioning you it is because I am either: 1 - trying to gather context or 2 - trying to understand if everyone is on the same page.
 
